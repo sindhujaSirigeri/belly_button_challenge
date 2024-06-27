@@ -1,7 +1,7 @@
 # Belly Button Biodiversity Dashboard
 This project involved building an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogued the microbes colonizing human navels. The dataset revealed that a small handful of microbial species (also called operational taxonomic units, or OTUs) were present in more than 70% of people, while the rest were relatively rare.
 
-The Visualisatons are published on the website : https://sindhujasirigeri.github.io/belly_button_challenge/
+Follow the link to use the interactive charts and explore the dataset : https://sindhujasirigeri.github.io/belly_button_challenge/
 
 ## Background
 
