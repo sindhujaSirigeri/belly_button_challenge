@@ -55,4 +55,7 @@ During the development of this project, the following skills were acquired and p
 3.  **Dynamic DOM Manipulation:** Utilized D3.js to dynamically update HTML content based on user interactions.
 4.  **Interactive Data Visualization with Plotly.js:** Created interactive charts (bar and bubble charts) using Plotly.js and customized their appearance and behavior.
 5.  **Event Handling:** Implemented event listeners to handle user interactions and update visualizations accordingly.
-6.  **GitHub Pages Deployment:** Deployed the static site to GitHub Pages and managed version control with Git.
+
+
+## References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
